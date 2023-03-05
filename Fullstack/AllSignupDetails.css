@@ -1,0 +1,19 @@
+.view{
+    font-size: larger;color:black;
+}
+.delete{
+    font-size: larger;
+color:black;
+}
+.create{
+    font-size: larger;
+    color:black;
+}
+.whole{
+    margin-top: 20%;
+    margin-left: 30%;
+}
+
+.heading{
+    color: black;
+}

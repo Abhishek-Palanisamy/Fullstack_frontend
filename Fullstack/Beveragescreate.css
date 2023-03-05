@@ -1,0 +1,102 @@
+.full5{
+    border-style: solid;
+    border-width: 1px;
+    width:30%;
+    margin-left: 35%;
+    margin-top: 9%; 
+}
+.signup{
+    margin-top: 8%;
+    margin-left: 2%;
+    margin-bottom: 6%;
+    font-weight: bolder;
+    font-size: 25px;
+}
+.fname{
+    margin-top: 4%;
+   margin-left: 23%;
+    font-size: large;
+}
+.fnamebox{
+    margin-top: 8px;
+    height: 23px;
+    width: 70%;
+    border-radius: 5px;
+}
+.lname{
+    margin-top: 2%;
+   margin-left: 23%;
+    font-size: large;
+}
+.lnamebox{
+    margin-top: 8px;
+    height: 23px;
+    width: 70%;
+    border-radius: 5px;
+}
+.uname{
+    margin-top: 2%;
+   margin-left: 23%;
+    font-size: large;
+}
+.unamebox{
+    margin-top: 8px;
+    height: 23px;
+    width: 70%;
+    border-radius: 5px;
+}
+.emailid{
+    margin-top: 2%;
+   margin-left: 23%;
+    font-size: large;
+}
+.emailidbox{
+    margin-top: 8px;
+    height: 23px;
+    width: 70%;
+    border-radius: 5px;
+}
+.mobile{
+    margin-top: 2%;
+   margin-left: 23%;
+    font-size: large;
+}
+.mobilebox{
+    margin-top: 8px;
+    height: 23px;
+    width: 70%;
+    border-radius: 5px;
+}
+.password1{
+    margin-top: 2%;
+   margin-left: 23%;
+    font-size: large;
+}
+.passwordbox1{
+    margin-top: 8px;
+    height: 23px;
+    width: 70%;
+    border-radius: 5px;
+}
+.signupbutton{
+    margin-left: 35%;
+    margin-top: 25px;
+    margin-bottom: 10%;
+    
+}
+.signupbuttonbox{
+    margin-left: 2%;
+    font-size:17px;
+    padding: 1%;
+    width: 40%;
+
+}
+.login1{
+margin-inline: -44px;
+font-size: large;
+
+}
+.loginbutton1{
+    margin-left: 2%;
+    font-size:17px;
+}
